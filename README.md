@@ -1,8 +1,8 @@
 <div align="center">
 
   <h1>
+    GameSocio 
     <img src="logo.png" width="50" style="vertical-align: middle;" /> 
-    GameSocio 🎮
   </h1>
   <p><strong>The Professional Network for Game Developers</strong></p>
   
