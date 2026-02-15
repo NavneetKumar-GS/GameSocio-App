@@ -1,6 +1,6 @@
 <div align="center">
 
-  <div disply="flex" flex-diirection="row"><h1>GameSocio </h1> 
+  <div disply="flex" flex-diirection="column"><h1>GameSocio </h1> 
   <img src="logo.png" width="120" height="120" />
   <div/>
   
