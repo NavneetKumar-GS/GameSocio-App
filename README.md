@@ -7,16 +7,16 @@
   <p><strong>The Professional Network for Game Developers</strong></p>
   <p>Connect • Showcase • Collaborate</p>
 
-  <a href="https://flutterflow.io">
-    <img src="https://img.shields.io/badge/Built%20with-FlutterFlow-4250F4?style=for-the-badge&logo=flutter&logoColor=white" alt="FlutterFlow">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Status-Alpha%20v1.0-orange?style=for-the-badge" alt="Status">
-  </a>
+<div align="center">
 
+  <p>
+    <img src="https://img.shields.io/badge/Built_with-FlutterFlow-4250F4?style=for-the-badge&logo=flutter&logoColor=white" height="28" />
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="28" />
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Status-Public_Beta-orange?style=for-the-badge" height="28" />
+  </p>
+  </div>
   <br />
   <br />
 
