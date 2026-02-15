@@ -21,7 +21,7 @@
   <br />
 
   <h1>
-    <a href="TERA_RELEASE_PAGE_KA_LINK_YAHAN">
+    <a href="https://github.com/NavneetKumar-GS/GameSocio-App/releases/tag/v1.0.0">
       🚀 Download Alpha APK
     </a>
   </h1>
