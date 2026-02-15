@@ -51,7 +51,7 @@ We are not just another social media app. We are a utility tool designed to help
 ## 🐛 Found a Bug?
 This is an **Alpha Build**, so things might break! (That's why you are here 😉).
 If you find a crash or a glitch:
-1.  Go to the [Issues Tab](LINK_TO_ISSUES_TAB).
+1.  Go to the [Issues Tab](https://github.com/NavneetKumar-GS/GameSocio-App/issues).
 2.  Click **New Issue**.
 3.  Tell me what happened!
 
