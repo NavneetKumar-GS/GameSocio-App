@@ -2,7 +2,7 @@
 
   <h1>
     GameSocio 
-    <img src="logo.png" width="20" style="vertical-align: middle;" /> 
+    <img src="logo.png" width="35" style="vertical-align: middle;" /> 
   </h1>
   <p><strong>The Professional Network for Game Developers</strong></p>
   
