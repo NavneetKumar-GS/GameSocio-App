@@ -1,18 +1,19 @@
 <div align="center">
 
-  <img src="logo.png" width="100" alt="GameSocio Logo" />
-  <br/>
-  <br/>
-
-  <h1>GameSocio 🎮</h1>
-
-  <h3>The Professional Network for Game Developers</h3>
+  <h1>
+    GameSocio 
+    <img src="logo.png" height="40" width="40" style="vertical-align: bottom;" />
+  </h1>
+  <p><strong>The Professional Network for Game Developers</strong></p>
+  
   <p>Connect • Showcase • Collaborate</p>
 
-  <br /> <p>
-    <img src="https://img.shields.io/badge/Built_with-FlutterFlow-4250F4?style=for-the-badge&logo=flutter&logoColor=white" height="28" alt="Built with FlutterFlow" />
-    &nbsp;&nbsp; <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="28" alt="Android" />
-    &nbsp;&nbsp; <img src="https://img.shields.io/badge/Status-Public_Beta-orange?style=for-the-badge" height="28" alt="Beta Status" />
+  <p>
+    <img src="https://img.shields.io/badge/Built_with-FlutterFlow-4250F4?style=for-the-badge&logo=flutter&logoColor=white" height="28" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="28" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Status-Public_Beta-orange?style=for-the-badge" height="28" />
   </p>
 
 </div>
