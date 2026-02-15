@@ -1,22 +1,22 @@
 <div align="center">
 
-  <div disply="flex" flex-diirection="column"><h1>GameSocio </h1> 
-  <img src="logo.png" width="120" height="120" />
-  <div/>
-  
+  <h1>
+    <img src="logo.png" width="50" style="vertical-align: middle;" /> 
+    GameSocio 🎮
+  </h1>
   <p><strong>The Professional Network for Game Developers</strong></p>
+  
   <p>Connect • Showcase • Collaborate</p>
-
-<div align="center">
 
   <p>
     <img src="https://img.shields.io/badge/Built_with-FlutterFlow-4250F4?style=for-the-badge&logo=flutter&logoColor=white" height="28" />
-    &nbsp;&nbsp;
+    &nbsp;
     <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="28" />
-    &nbsp;&nbsp;
+    &nbsp;
     <img src="https://img.shields.io/badge/Status-Public_Beta-orange?style=for-the-badge" height="28" />
   </p>
-  </div>
+
+</div>
   <br />
   <br />
 
