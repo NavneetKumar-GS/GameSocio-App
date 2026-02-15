@@ -1,8 +1,8 @@
 <div align="center">
 
+  <div disply="flex"><h1>GameSocio </h1> 
   <img src="logo.png" width="120" height="120" />
-  
-  <h1>GameSocio 🎮</h1>
+  <div/>
   
   <p><strong>The Professional Network for Game Developers</strong></p>
   <p>Connect • Showcase • Collaborate</p>
