@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="TERA_LOGO_IMAGE_LINK_YAHA.png" width="120" height="120" />
+  <img src="logo.png" width="120" height="120" />
   
   <h1>GameSocio 🎮</h1>
   
