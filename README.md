@@ -44,7 +44,7 @@ We are not just another social media app. We are a utility tool designed to help
 ## 📸 Sneak Peek
 | **Dev Portfolio** | **Community Feed** |
 |:---:|:---:|
-| <img src="SCREENSHOT_1_LINK" width="250"> | <img src="SCREENSHOT_2_LINK" width="250"> |
+| <img src="feed.jpeg" width="250"> | <img src="Portfolio.jpeg" width="250"> |
 
 ---
 
